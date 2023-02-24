@@ -6,7 +6,7 @@ We have got some [practice problem statements](practice-problem-statements.pdf) 
 
 The repository also contains [skeleton code](practice-problems/skeletons/) (in JAVA) to solve practice problems. Implement solution in the method marked with `//TODO: ` without changing the signature of the method. 
 
-If you are using other programming language, you can assume that the skeleton code will be available. You will have to just focus on solving the problem and implementing required logic within the method having `//TODO: ` comment.
+If you are using other programming language, you can assume that the skeleton code will be available. You will have to just focus on solving the problem and implementing required logic within the method having `//TODO: ` comment. You can use any of these programming languages to solve these practice problems: C, C++, C#, Java, Python
 
 If you solve the practice problem statements and would like to share your solution with us, upload it to your personal github repository and share the link to the repo in [this discussion thread](https://github.com/tark-ignite/codegenie-2023/discussions/3).
 
