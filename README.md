@@ -1,4 +1,4 @@
-# CODEGENIE-2023
+# CodeGenie - 2023
 
 # Practice Problems
 
