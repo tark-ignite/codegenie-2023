@@ -12,12 +12,12 @@
  * Test Case - 3
  * Final Number: 10
  * Operations: {"X * 5", "X * 0", "X + 10"}
- * Exepcted Output : -1
+ * Expected Output : -2
  * 
  * Test Case - 4
  * Final Number: 617283948
  * Operations: {"X + 5”, “X - 0”, “X + 1”, “X / 2”, “X ^ 1”}
- * Exected Output: 1234567890
+ * Expected Output: 1234567890
  */
 #include<bits/stdc++.h>
 using namespace std;
