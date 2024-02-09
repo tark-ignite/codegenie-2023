@@ -1,51 +1,17 @@
-# Codegenie 2024
+# CodeGenie - 2023
 
-Welcome to the Codegenie 2024! This event is designed for budding engineers to showcase their problem-solving skills and proficiency in Data Structures, Algorithms, and Object-Oriented Programming. Join us for an exhilarating competition, and win exciting prizes!
+# Practice Problems
 
-## Event Details
-- **Registration Deadline:** Feb 15, 2024
-  
-### Qualifier Round
-- **Date:** Feb 18, 2024
-- This round will be conducted online wherein you'll be solving 2-3 algorithmic problems. Top 30 winners would qualify for the final round.
+We have got some [practice problem statements](practice-problem-statements.pdf) to help you get an idea about what to expect in the qualifier round. Go ahead and get your hands dirty to be well prepared and have some tricks up your sleeves before the qualifier round.
 
-### Final Round
-- **Date:** Feb 25, 2024
-- **Location:** Tark Technologies (Rajkot)
-- This round will be conducted at Tark Technologies (Rajkot) and divided in two parts. During the first half, we will explain the problem statement and will also explain you the high level and design and solution of the problem statement, so that you become familiar with not just the problem but an approach to solve it. In the second half, you will have to code the solution using one of these programming languages: C++, Java, Python, C#. This will be a purely command line application and so you won't have to build any UI or integrate with any database.
-- The top 5 winners would be awarded with cool and exciting prizes
-- To become eligible for the prize, you must solve at least 1 problem fully during the final round.
+The repository also contains skeleton code (in [JAVA](practice-problems/skeletons) and [CPP](practice-problems/skeletons-cpp)) to solve practice problems. Implement solution in the method marked with `//TODO: ` without changing the signature of the method. 
 
-## Who Can Participate
+If you are using other programming language, you can assume that the skeleton code will be available. You will have to just focus on solving the problem and implementing required logic within the method having `//TODO: ` comment. You can use any of these programming languages to solve these practice problems: C, C++, C#, Java, Python
 
-- Open to 3rd year Computer and IT engineering students, enrolled with any college in Rajkot.
+If you solve the practice problem statements and would like to share your solution with us, upload it to your personal github repository and share the link to the repo in [this discussion thread](https://github.com/tark-ignite/codegenie-2023/discussions/3).
 
-## How to Register
-
-- Register by filling out the form at [Registration Link].
-
-## Prizes
-TBD
-
-## Resources
-
-Participants are encouraged to familiarize themselves with the following resources:
-- [Resource 1]
-- [Resource 2]
-- [Etc.]
+----
 
 # Discussions
 
-Got a question? Post it [here](https://github.com/tark-ignite/codegenie-2024/discussions/2).
-
-## Follow Us
-
-Stay updated with hackathon news and announcements:
-- Twitter: 
-- LinkedIn: 
-- Instagram: 
-
----
-
-Good luck to all participants! Let's code, learn, and have fun!
-
+Got a question? Post it [here](https://github.com/tark-ignite/codegenie-2023/discussions/2).
